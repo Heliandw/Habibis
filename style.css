@@ -1,0 +1,20 @@
+h1 {
+text-align: center;
+font-family: cursive;
+}
+
+
+#menu{
+display: flex;
+justify-content: center;
+
+
+}
+
+
+#motivo-de-criacao {
+    text-decoration: none;
+    text-align: center;
+    
+}
+
