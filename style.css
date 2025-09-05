@@ -15,6 +15,17 @@ justify-content: center;
 #motivo-de-criacao {
     text-decoration: none;
     text-align: center;
-    
+    margin-right: 15px;
+   
 }
 
+#motivo-de-criacao::after {
+    padding-left: 15px;
+    content: "|";
+}
+
+#creditos {
+
+text-decoration: none;
+
+}
